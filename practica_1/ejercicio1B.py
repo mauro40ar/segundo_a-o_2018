@@ -15,3 +15,7 @@ print (skys)
 grey=" esto es un ejercicio"
 greys=grey.replace("ejercicio","prueba")
 print (greys)
+#IV
+
+rey=grey.index("un")
+print(rey)
